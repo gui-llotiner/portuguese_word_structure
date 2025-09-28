@@ -1,2 +1,0 @@
-# stress_syllable
- 

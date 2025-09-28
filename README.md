@@ -1,1 +1,2 @@
-# portuguese_word_structure
+# stress_syllable
+ 
