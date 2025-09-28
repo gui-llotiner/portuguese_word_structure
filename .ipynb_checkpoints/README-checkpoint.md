@@ -1,1 +1,0 @@
-# portuguese_word_structure
